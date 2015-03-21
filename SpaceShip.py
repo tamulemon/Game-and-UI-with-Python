@@ -1,8 +1,7 @@
-Enter file contents hereFull version peer
-http://www.codeskulptor.org/#user38_mYYHdxFDvoWyQjd_10.py
 
-my version
-http://www.codeskulptor.org/#user38_nHSZR0DfGr_4.py
+#http://www.codeskulptor.org/#user38_mYYHdxFDvoWyQjd_10.py
+
+3 http://www.codeskulptor.org/#user38_nHSZR0DfGr_4.py
 # program template for Spaceship
 import simplegui
 import math
