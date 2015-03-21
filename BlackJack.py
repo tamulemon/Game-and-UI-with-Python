@@ -1,4 +1,4 @@
-Enter file contents herehttp://www.codeskulptor.org/#user38_6WhBHALztmmGqqK.py
+# Enter file contents herehttp://www.codeskulptor.org/#user38_6WhBHALztmmGqqK.py
 # Mini-project #6 - Blackjack
 
 import simplegui
